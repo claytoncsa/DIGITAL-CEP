@@ -1,5 +1,7 @@
 <?php
 
+require_once "vendor/autoload.php";
+
 use Csa\DigitalCep\Search;
 
 $busca = new Search;
